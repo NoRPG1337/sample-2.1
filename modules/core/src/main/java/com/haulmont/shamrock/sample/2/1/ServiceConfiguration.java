@@ -4,6 +4,7 @@ import com.haulmont.monaco.config.annotations.Config;
 import com.haulmont.monaco.config.annotations.Property;
 import org.picocontainer.annotations.Component;
 
+// test 2
 
 @Config
 @Component
